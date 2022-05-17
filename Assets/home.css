@@ -1,0 +1,108 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+
+*{
+    font-family:  'Nunito', sans-serif;
+}
+.logo img{
+    height: 6vw;
+    width: auto;
+    padding: 2vw;
+
+}
+.nav-bar{
+    display: flex;
+    border:1px solid red;
+}
+.nav-links{
+    margin-right: 1vw;
+    width: 80%;
+}
+.nav-links ul{
+    float: right;
+    display: flex;
+
+
+
+}
+.nav-links ul li{
+    list-style: none;
+    padding: 2vw;
+    float: left;
+
+    
+    
+}
+.nav-links ul li a{
+    list-style: none;
+    text-decoration: none;
+    color: black;
+  
+}
+.nav-links .signup{
+    background-color: rgb(49, 219, 245);
+    border-radius: 30%;
+    border: 25%;
+    padding: 10px;
+}
+.top-search{
+    display: flex;
+    border:1px solid red;
+    padding: 10%;
+    width: 80%;
+}
+.top-search .access{
+    width: 40%;
+    justify-content: space-between;
+
+}
+.top-search .student-image{
+    width: 40%;
+}
+
+.top-search img {
+    border-radius: 5vw;
+
+    
+    
+
+    
+}
+.top-search .access .search{
+    background-color: rgb(49, 219, 245);
+    border-radius: 30%;
+    border: 25%;
+    padding: 10px;
+}
+.top-search  .search a{
+    text-decoration: none;
+}
+.about{
+    border:1px solid red;
+    display: flex;
+    padding: 10%;
+
+}
+.about img{
+    border-radius: 5vw;
+}
+.about .who{
+    width: 80%;
+}
+.about .about-btn{
+    background-color: rgb(49, 219, 245);
+    border-radius: 30%;
+    border: 25%;
+    padding: 10px;
+
+}
+.about .about-btn a{
+    text-decoration: none;
+}
+.about .about-image{
+
+}
+
