@@ -1,0 +1,48 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: darkgray;
+}
+.whole{
+    display: flex;
+    justify-content: space-between;
+    margin: 100px;
+    
+}
+
+.left {
+    padding: 20px;
+    width: 45%;
+}
+
+.right{
+    width: 45%;
+    padding: 20px;
+    background-color: white;
+    border: 1px solid gray;
+}
+
+input, .ogin{
+    height: 48px;
+    width: 100%;
+    border-radius: 8px;
+    border: 1px solid blue;
+}
+
+.ogin {
+    background-color: blue;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+.right div{
+    margin-bottom: 20px;
+    border-radius: 8px;
+
+}
