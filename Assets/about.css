@@ -1,22 +1,76 @@
 .container > h1 {
   font-size: xx-large;
   color: white;
- float:center;
+  float: right;
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
 }
 .one {
-    color: white;
+  color: white;
   font-size: large;
   font-weight: 700;
-  
+  border: 10px;
 }
 background-image {
-    height: 90vh;
+  height: 40vh;
 }
 
 #five {
-  background-image: url(../css1/images/nathan-dumlao-7IIyK3B4UiA-unsplash.jpg);
+  background-image: url(../Assets/Images/husen-siraaj-3cH5PJpFlx8-unsplash.jpg);
   background-size: cover;
   background-position: center;
-  height: 105vh;
+  height: 90vh;
   width: 100%;
+}
+.two {
+  float: right;
+  font-size: large;
+  clear: right;
+}
+.three {
+  clear: right;
+  font-size: large;
+}
+p {
+  clear: both;
+  font-size: large;
+  width: 100%;
+}
+.right {
+  float: right;
+  width: 60%;
+  margin-top: 170px;
+  background-color: rgb(145, 145, 199);
+}
+.left {
+  float: left;
+  margin-top: 170px;
+}
+.nav-bar {
+  display: flex;
+  border: 1px solid red;
+  background-color: rgb(223, 223, 235);
+  
+}
+.nav-links {
+  margin-right: 1vw;
+  width: 80%;
+  
+}
+.nav-links ul {
+  float: right;
+  display: flex;
+}
+.nav-links ul li {
+  list-style: none;
+  padding: 2vw;
+  float: left;
+  
+}
+.logo {
+  height: 6vw;
+  width: auto;
+  padding: 2vw;
 }
