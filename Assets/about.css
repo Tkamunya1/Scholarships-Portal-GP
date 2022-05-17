@@ -1,0 +1,22 @@
+.container > h1 {
+  font-size: xx-large;
+  color: white;
+ float:center;
+}
+.one {
+    color: white;
+  font-size: large;
+  font-weight: 700;
+  
+}
+background-image {
+    height: 90vh;
+}
+
+#five {
+  background-image: url(../css1/images/nathan-dumlao-7IIyK3B4UiA-unsplash.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 105vh;
+  width: 100%;
+}
