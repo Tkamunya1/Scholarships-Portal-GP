@@ -65,10 +65,6 @@ body{
 
 .top-search img {
     border-radius: 5vw;
-
-    
-    
-
     
 }
 .top-search .access .search{
@@ -102,7 +98,86 @@ body{
 .about .about-btn a{
     text-decoration: none;
 }
-.about .about-image{
+.help{
+    display: flex;
+    width: 100%;
+    border: 1px solid rebeccapurple;
+}
+.help-image{
+    width: 50%;
+    padding: 10vw 5vw 0vw 5vw;
 
+}
+.help-image img{
+    border-radius: 5vw;
+}
+
+.work-you h1{
+    width: 80%;
+    text-align: center;
+    border: 1px solid greenyellow;
+   
+}
+.icons-help{
+    width: 50%;
+    padding-top: 1vw;
+
+}
+.scholarship-search{
+    display: flex;
+    
+
+
+}
+.scholarship-search .grid{
+    padding: 1vw;
+    
+}
+.process-personal .smiley{
+    padding: 1vw;
+}
+.win .cash{
+    padding: 1vw;
+}
+.process-personal{
+    display: flex;
+}
+.win{
+    display: flex;
+}
+.world-top{
+    display: flex;
+    padding: 10%;
+    border: 6px solid orange;
+}
+.world-top .world-image img{
+    border-radius: 500vw;
+
+}
+.worlds .explore{
+    background-color: rgb(49, 219, 245);
+    border-radius: 30%;
+    border: 25%;
+    padding: 10px;
+
+}
+
+.worlds .explore a{
+    text-decoration: none;
+}
+.reviewees{
+    display: flex;
+}
+.reviews .toph{
+    text-align: center;
+}
+.reviews .review1{
+    border: 1px solid lightgray;
+}
+.reviews .review2{
+    border: 1px solid lightgray;
+}
+.reviews .review3{
+    border: 1px solid lightgray;
 }
 
