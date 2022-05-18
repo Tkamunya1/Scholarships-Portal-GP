@@ -57,9 +57,10 @@ body {
 h1,
 h2,
 h3 {
-    color: black;
     font-size: larger;
     justify-content: space-between;
+    font-weight: bolder;
+
 }
 
 
@@ -71,15 +72,12 @@ h3 {
     margin-right: 20px;
     box-sizing: border-box;
     background-color: #A7DFFF;
-    border: 1px black;
-
+    height: 650px; width: fit-content;
 
 
 }
 
-p {
-    color: black;
-}
+
 
 .column ul li {
     font-style: italic;
@@ -118,6 +116,6 @@ p {
 
 .MR,
 .AG,
-US {
+.US {
     color: white;
 }
