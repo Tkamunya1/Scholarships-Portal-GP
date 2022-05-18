@@ -205,14 +205,53 @@ body{
     text-align: center;
     padding: 2vw;
 }
-.footer-links ul{
+footer .footer-content{
     display: flex;
+    border: 10px solid yellow;
+    background-color:#F7F5F2 ;
 }
+
 .footer-links ul li{
     list-style: none;
 }
 .footer-links ul li a{
     text-decoration: none;
+    color: black;
+}
+footer .social-media-icons{
+    margin: 2vw;
+    padding: 100px;
+}
+footer .social-media-icons .fa{
+    justify-content: space-between;
+    padding: 20px;
+    color: black;
+
+}
+footer .social-media-icons .h3{
+    text-align: center;
+    
+
+}
+footer .social-media-icons a{
+    text-decoration: none;
+    list-style: none;
+    
+
+}
+footer .footer-links{
+    padding: 100px;
+
+}
+footer .news{
+    padding: 100px;
+    text-decoration: none;
+}
+footer .news a{
+    text-decoration: none;
+}
+.checked{
+    color: orange;
 }
 
 
