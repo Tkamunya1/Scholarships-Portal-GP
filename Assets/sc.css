@@ -1,8 +1,10 @@
-
-
-
 * {
     font-family: 'Nunito', sans-serif;
+}
+
+body {
+    background-color: #A7DFFF;
+
 }
 
 .logo img {
@@ -14,7 +16,6 @@
 
 .nav-bar {
     display: flex;
-    border: 1px solid red;
 }
 
 .nav-links {
@@ -47,7 +48,7 @@
 }
 
 .nav-links .signup {
-    background-color: rgb(49, 219, 245);
+    background-color: #EC4067;
     border-radius: 30%;
     border: 25%;
     padding: 10px;
@@ -56,7 +57,7 @@
 h1,
 h2,
 h3 {
-    color: brown;
+    color: black;
     font-size: larger;
     justify-content: space-between;
 }
@@ -69,23 +70,54 @@ h3 {
     margin-left: 20px;
     margin-right: 20px;
     box-sizing: border-box;
-    background-color: aqua;
+    background-color: #A7DFFF;
+    border: 1px black;
+
 
 
 }
-p{
+
+p {
     color: black;
 }
 
+.column ul li {
+    font-style: italic;
+}
+
 .Moringa {
-    border: cornflowerblue; 
     border: 10px;
+    padding-left: 10px;
+    border: 2px solid #EC4067;
+
+
 }
 
 .Agakhan {
-    padding-left: 40px;
+    padding-left: 10px;
+    border: 2px solid #EC4067;
+
+
 }
 
 .USIU {
     margin-left: 40px;
+    padding-left: 10px;
+    border: 2px solid #EC4067;
+
+}
+
+.Apply {
+    background-color: #EC4067;
+    border-radius: 20%;
+    border: 25%;
+    padding: 10px;
+    width: 30%;
+    align-items: center;
+}
+
+.MR,
+.AG,
+US {
+    color: white;
 }
