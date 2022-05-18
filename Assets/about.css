@@ -8,9 +8,9 @@
   width: 60%;
 }
 .one {
-  color: white;
+  color: black;
   font-size: large;
-  font-weight: 700;
+  font-weight: 500;
   border: 10px;
 }
 background-image {
@@ -18,10 +18,10 @@ background-image {
 }
 
 #five {
-  background-image: url(../Assets/Images/husen-siraaj-3cH5PJpFlx8-unsplash.jpg);
+  background-color: #a7dfff;
   background-size: cover;
   background-position: center;
-  height: 90vh;
+  height: 100vh;
   width: 100%;
 }
 .two {
@@ -41,23 +41,21 @@ p {
 .right {
   float: right;
   width: 60%;
-  margin-top: 170px;
-  background-color: rgb(145, 145, 199);
+  margin-top: 200px;
+  background-color: #a7dfff;
 }
 .left {
   float: left;
   margin-top: 170px;
+  border-radius: 50%;
 }
 .nav-bar {
   display: flex;
   border: 1px solid red;
-  background-color: rgb(223, 223, 235);
-  
 }
 .nav-links {
   margin-right: 1vw;
   width: 80%;
-  
 }
 .nav-links ul {
   float: right;
@@ -67,10 +65,13 @@ p {
   list-style: none;
   padding: 2vw;
   float: left;
-  
 }
 .logo {
   height: 6vw;
   width: auto;
   padding: 2vw;
+  margin-bottom: 50px;
+}
+button {
+  background-color: #ec4067;
 }
