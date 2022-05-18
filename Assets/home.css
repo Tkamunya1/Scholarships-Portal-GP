@@ -7,6 +7,10 @@ body{
 *{
     font-family:  'Nunito', sans-serif;
 }
+.logo{
+    display: flex;
+}
+
 .logo img{
     height: 6vw;
     width: auto;
@@ -16,6 +20,7 @@ body{
 .nav-bar{
     display: flex;
     border:1px solid red;
+    width: 90%;
 }
 .nav-links{
     margin-right: 1vw;
@@ -61,6 +66,7 @@ body{
 }
 .top-search .student-image{
     width: 40%;
+    margin-left: 10vw;
 }
 
 .top-search img {
@@ -167,17 +173,46 @@ body{
 }
 .reviewees{
     display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: space-between;
 }
 .reviews .toph{
     text-align: center;
 }
 .reviews .review1{
     border: 1px solid lightgray;
+    margin: 4vw;
+    border-radius: 2vw;
 }
 .reviews .review2{
     border: 1px solid lightgray;
+    margin: 4vw;
+    border-radius: 2vw;
 }
 .reviews .review3{
     border: 1px solid lightgray;
+    margin: 4vw;
+    border-radius: 2vw;
 }
+.connect{
+    border: 2px solid lightgray;
+    margin: 12vw;
+    border-radius: 2vw;
+    background-color: #F7F5F2;
+}
+.get-connected{
+    text-align: center;
+    padding: 2vw;
+}
+.footer-links ul{
+    display: flex;
+}
+.footer-links ul li{
+    list-style: none;
+}
+.footer-links ul li a{
+    text-decoration: none;
+}
+
 
