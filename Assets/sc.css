@@ -7,48 +7,43 @@ body {
 
 }
 
-.logo img {
+.logo img{
     height: 6vw;
     width: auto;
     padding: 2vw;
 
 }
-
-.nav-bar {
+.nav-bar{
     display: flex;
-}
 
-.nav-links {
+}
+.nav-links{
     margin-right: 1vw;
     width: 80%;
 }
-
-.nav-links ul {
+.nav-links ul{
     float: right;
     display: flex;
 
 
 
 }
-
-.nav-links ul li {
+.nav-links ul li{
     list-style: none;
     padding: 2vw;
     float: left;
 
-
-
+    
+    
 }
-
-.nav-links ul li a {
+.nav-links ul li a{
     list-style: none;
     text-decoration: none;
     color: black;
-
+  
 }
-
-.nav-links .signup {
-    background-color: #EC4067;
+.nav-links .signup{
+    background-color: rgb(49, 219, 245);
     border-radius: 30%;
     border: 25%;
     padding: 10px;
