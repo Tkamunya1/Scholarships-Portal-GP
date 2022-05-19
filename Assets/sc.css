@@ -3,7 +3,6 @@
 }
 
 body {
-    background-color: #A7DFFF;
 
 }
 
@@ -48,7 +47,7 @@ body {
 }
 
 .nav-links .signup {
-    background-color: #EC4067;
+    background-color: #A7DFFF;
     border-radius: 30%;
     border: 25%;
     padding: 10px;
@@ -71,7 +70,6 @@ h3 {
     margin-left: 20px;
     margin-right: 20px;
     box-sizing: border-box;
-    background-color: #A7DFFF;
     height: 650px; width: fit-content;
 
 
@@ -86,14 +84,14 @@ h3 {
 .Moringa {
     border: 10px;
     padding-left: 10px;
-    border: 2px solid #EC4067;
+    border: 2px solid #A7DFFF;
 
 
 }
 
 .Agakhan {
     padding-left: 10px;
-    border: 2px solid #EC4067;
+    border: 2px solid #A7DFFF;
 
 
 }
@@ -101,12 +99,12 @@ h3 {
 .USIU {
     margin-left: 40px;
     padding-left: 10px;
-    border: 2px solid #EC4067;
+    border: 2px solid #A7DFFF;
 
 }
 
 .Apply {
-    background-color: #EC4067;
+    background-color: #A7DFFF;
     border-radius: 20%;
     border: 25%;
     padding: 10px;
