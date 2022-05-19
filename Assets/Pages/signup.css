@@ -1,0 +1,127 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: darkgray;
+}
+.whole{
+    width: 375px;
+    height: 532px;
+    left: 751px;
+    top: 287px;
+    background: #FFFFFF;
+    border-radius: 15px;
+    margin-top: 50px;
+    margin-left: 500px;
+    margin-bottom: 50px;
+}
+.welcome{
+    width: 167px;
+    height: 40px;
+    left: 29px;
+    top: 29px;
+}
+.welcome p{
+    width: 75%;
+}
+.right h4{
+    color: #0330A6;;
+}
+.name{
+    width: 318px;
+    height: 50px;
+    left: 29px;
+    top: 158px;
+    border: 1px solid #847C7C;
+    border-radius: 5px;
+}
+.password{
+    width: 318px;
+    height: 50px;
+    left: 29px;
+    top: 239px;
+    border: 1px solid #847C7C;
+    border-radius: 5px;
+}
+.login {
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 17px;
+    gap: 10px;
+    width: 318px;
+    height: 50px;
+    background: #0330A6;
+    border-radius: 7px;
+    color: #FFFFFF;
+}
+.blue{
+    width: 194px;
+    height: 15px;
+    left: 91px;
+    top: 382px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 15px;
+    color: #847C7C;
+}
+.right{
+    
+    width: 100%;
+    padding: 20px;
+    background-color: rgba(221, 214, 214, 0.952);
+    border: 1px solid rgb(247, 245, 245);
+    margin-right: 10px;
+}
+
+.green{
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    width: 311px;
+    height: 50px;
+    left: 5px;
+    top: 1px ;
+    background-color: #0330A6;
+    border-radius: 7px;
+    color: white;
+    display: flex;
+    align-items: center;
+    margin: 7px;
+}
+.green{
+  
+}
+
+.left {
+    padding: 15px;
+    width: 100%;
+}
+.left h1{
+    color: rgb(72, 139, 228);
+}
+.left p{
+    margin: 10px;
+    width: 100%;
+}
+
+input {
+    height: 48px;
+    width: 100%;
+    border-radius: 8px;
+    border: 1px solid blue;
+}
+
+.right div{
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+
