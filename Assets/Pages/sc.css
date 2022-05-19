@@ -3,18 +3,10 @@
 }
 
 body {
-<<<<<<< HEAD
-
-}
-
-.logo img {
-=======
-    background-color: #A7DFFF;
 
 }
 
 .logo img{
->>>>>>> 49c02c8030a3daa775fcf6596c16550c16f10933
     height: 6vw;
     width: auto;
     padding: 2vw;
@@ -22,10 +14,6 @@ body {
 }
 .nav-bar{
     display: flex;
-<<<<<<< HEAD
-}
-=======
->>>>>>> 49c02c8030a3daa775fcf6596c16550c16f10933
 
 }
 .nav-links{
@@ -53,14 +41,8 @@ body {
     color: black;
   
 }
-<<<<<<< HEAD
-
-.nav-links .signup {
-    background-color: #A7DFFF;
-=======
 .nav-links .signup{
     background-color: rgb(49, 219, 245);
->>>>>>> 49c02c8030a3daa775fcf6596c16550c16f10933
     border-radius: 30%;
     border: 25%;
     padding: 10px;
@@ -69,10 +51,7 @@ body {
 h1,
 h2,
 h3 {
-<<<<<<< HEAD
-=======
     color: black;
->>>>>>> 49c02c8030a3daa775fcf6596c16550c16f10933
     font-size: larger;
     justify-content: space-between;
     font-weight: bolder;
@@ -87,26 +66,13 @@ h3 {
     margin-left: 20px;
     margin-right: 20px;
     box-sizing: border-box;
-<<<<<<< HEAD
     height: 650px; width: fit-content;
-=======
-    background-color: #A7DFFF;
-    border: 1px black;
-
->>>>>>> 49c02c8030a3daa775fcf6596c16550c16f10933
 
 
 }
 
-<<<<<<< HEAD
-
-
-.column ul li {
-    font-style: italic;
-=======
 p {
     color: black;
->>>>>>> 49c02c8030a3daa775fcf6596c16550c16f10933
 }
 
 .column ul li {
@@ -116,22 +82,14 @@ p {
 .Moringa {
     border: 10px;
     padding-left: 10px;
-<<<<<<< HEAD
     border: 2px solid #A7DFFF;
-=======
-    border: 2px solid #EC4067;
->>>>>>> 49c02c8030a3daa775fcf6596c16550c16f10933
 
 
 }
 
 .Agakhan {
     padding-left: 10px;
-<<<<<<< HEAD
     border: 2px solid #A7DFFF;
-=======
-    border: 2px solid #EC4067;
->>>>>>> 49c02c8030a3daa775fcf6596c16550c16f10933
 
 
 }
@@ -139,20 +97,12 @@ p {
 .USIU {
     margin-left: 40px;
     padding-left: 10px;
-<<<<<<< HEAD
     border: 2px solid #A7DFFF;
-=======
-    border: 2px solid #EC4067;
->>>>>>> 49c02c8030a3daa775fcf6596c16550c16f10933
 
 }
 
 .Apply {
-<<<<<<< HEAD
     background-color: #A7DFFF;
-=======
-    background-color: #EC4067;
->>>>>>> 49c02c8030a3daa775fcf6596c16550c16f10933
     border-radius: 20%;
     border: 25%;
     padding: 10px;
@@ -162,12 +112,6 @@ p {
 
 .MR,
 .AG,
-<<<<<<< HEAD
-.US {
-    color: white;
-}
-=======
 US {
     color: white;
 }
->>>>>>> 49c02c8030a3daa775fcf6596c16550c16f10933
