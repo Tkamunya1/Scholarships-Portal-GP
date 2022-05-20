@@ -1,0 +1,81 @@
+body{
+  padding: 0;
+  margin: 0;
+  
+}
+
+*{
+  font-family:  'Nunito', sans-serif;
+}
+.logo{
+  display: flex;
+}
+
+.logo img{
+  height: 6vw;
+  width: auto;
+  padding: 2vw;
+
+}
+.nav-bar{
+  display: flex;
+  width: 90%;
+  margin-bottom: 0px;
+  padding: 0px;
+}
+.nav-links{
+  margin-right: 1vw;
+  width: 80%;
+}
+.nav-links ul{
+  float: right;
+  display: flex;
+
+}
+.nav-links ul li{
+  list-style: none;
+  padding: 2vw;
+  float: left;
+
+  
+  
+}
+.nav-links ul li a{
+  list-style: none;
+  text-decoration: none;
+  color: black;
+
+}
+.nav-links .signup{
+  background-color: #0AA1DD;
+  border-radius: 4vw;
+  border: none;
+  padding: 0.5rem;
+}
+.about-us{
+  width: 80%;
+  display: flex;
+  padding-bottom: 5vw;
+
+}
+.about-us .about-image img{
+  width: 68%;
+  padding-left: 10vw;
+  
+}
+.about-us  .about-desc{
+  padding-left: 8vw;
+}
+.our-mission{
+  display: flex;
+  
+}
+.mission{
+  width: 60%;
+}
+.our-mission .mission-image img{
+  padding-left: 10vw;
+  width: 60%;
+  height: auto;
+  
+}

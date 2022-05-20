@@ -3,7 +3,6 @@ body{
     margin: 0;
 }
 
-
 *{
     font-family:  'Nunito', sans-serif;
 }
@@ -52,6 +51,14 @@ body{
     border-radius: 30%;
     border: 25%;
     padding: 10px;
+}
+
+#login-button{
+    padding:5px 10px;
+    border:1px solid #c4c4c4;
+    background-color:grey;
+    color:white;
+    
 }
 .top-search{
     display: flex;
