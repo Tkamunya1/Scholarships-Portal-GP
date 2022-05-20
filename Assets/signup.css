@@ -1,0 +1,659 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:  'Nunito', sans-serif;
+}
+
+body{
+    background-color: darkgray;
+}
+body{
+    padding: 0;
+    margin: 0;
+}
+
+*{
+    font-family:  'Nunito', sans-serif;
+}
+.logo{
+    display: flex;
+}
+
+.logo img{
+    height: 6vw;
+    width: auto;
+    padding: 2vw;
+
+}
+.nav-bar{
+    display: flex;
+    border:1px solid red;
+    width: 90%;
+}
+.nav-links{
+    margin-right: 1vw;
+    width: 80%;
+}
+.nav-links ul{
+    float: right;
+    display: flex;
+
+
+
+}
+.nav-links ul li{
+    list-style: none;
+    padding: 2vw;
+    float: left;
+
+    
+    
+}
+.nav-links ul li a{
+    list-style: none;
+    text-decoration: none;
+    color: black;
+  
+}
+.nav-links .signup{
+    background-color: rgb(49, 219, 245);
+    border-radius: 30%;
+    border: 25%;
+    padding: 10px;
+}
+
+#login-button{
+    padding:5px 10px;
+    border:1px solid #c4c4c4;
+    background-color:grey;
+    color:white;
+    
+}
+.top-search{
+    display: flex;
+    border:1px solid red;
+    padding: 10%;
+    width: 80%;
+}
+.top-search .access{
+    width: 40%;
+    justify-content: space-between;
+
+}
+.top-search .student-image{
+    width: 40%;
+    margin-left: 10vw;
+}
+
+.top-search img {
+    border-radius: 5vw;
+    
+}
+.top-search .access .search{
+    background-color: rgb(49, 219, 245);
+    border-radius: 30%;
+    border: 25%;
+    padding: 10px;
+}
+.top-search  .search a{
+    text-decoration: none;
+}
+.about{
+    border:1px solid red;
+    display: flex;
+    padding: 10%;
+
+}
+.about img{
+    border-radius: 5vw;
+}
+.about .who{
+    width: 80%;
+}
+.about .about-btn{
+    background-color: rgb(49, 219, 245);
+    border-radius: 30%;
+    border: 25%;
+    padding: 10px;
+
+}
+.about .about-btn a{
+    text-decoration: none;
+}
+.help{
+    display: flex;
+    width: 100%;
+    border: 1px solid rebeccapurple;
+}
+.help-image{
+    width: 50%;
+    padding: 10vw 5vw 0vw 5vw;
+
+}
+.help-image img{
+    border-radius: 5vw;
+}
+
+.work-you h1{
+    width: 80%;
+    text-align: center;
+    border: 1px solid greenyellow;
+   
+}
+.icons-help{
+    width: 50%;
+    padding-top: 1vw;
+
+}
+.scholarship-search{
+    display: flex;
+    
+
+
+}
+.scholarship-search .grid{
+    padding: 1vw;
+    
+}
+.process-personal .smiley{
+    padding: 1vw;
+}
+.win .cash{
+    padding: 1vw;
+}
+.process-personal{
+    display: flex;
+}
+.win{
+    display: flex;
+}
+.world-top{
+    display: flex;
+    padding: 10%;
+    border: 6px solid orange;
+}
+.world-top .world-image img{
+    border-radius: 500vw;
+
+}
+.worlds .explore{
+    background-color: rgb(49, 219, 245);
+    border-radius: 30%;
+    border: 25%;
+    padding: 10px;
+
+}
+
+.worlds .explore a{
+    text-decoration: none;
+}
+.reviewees{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: space-between;
+}
+.reviews .toph{
+    text-align: center;
+}
+.reviews .review1{
+    border: 1px solid lightgray;
+    margin: 4vw;
+    border-radius: 2vw;
+}
+.reviews .review2{
+    border: 1px solid lightgray;
+    margin: 4vw;
+    border-radius: 2vw;
+}
+.reviews .review3{
+    border: 1px solid lightgray;
+    margin: 4vw;
+    border-radius: 2vw;
+}
+.connect{
+    border: 2px solid lightgray;
+    margin: 12vw;
+    border-radius: 2vw;
+    background-color: #F7F5F2;
+}
+.get-connected{
+    text-align: center;
+    padding: 2vw;
+}
+footer .footer-content{
+    display: flex;
+    border: 10px solid yellow;
+    background-color:#F7F5F2 ;
+}
+
+.footer-links ul li{
+    list-style: none;
+}
+.footer-links ul li a{
+    text-decoration: none;
+    color: black;
+}
+footer .social-media-icons{
+    margin: 2vw;
+    padding: 100px;
+}
+footer .social-media-icons .fa{
+    justify-content: space-between;
+    padding: 20px;
+    color: black;
+
+}
+footer .social-media-icons .h3{
+    text-align: center;
+    
+
+}
+footer .social-media-icons a{
+    text-decoration: none;
+    list-style: none;
+    
+
+}
+footer .footer-links{
+    padding: 100px;
+
+}
+footer .news{
+    padding: 100px;
+    text-decoration: none;
+}
+footer .news a{
+    text-decoration: none;
+}
+.checked{
+    color: orange;
+}
+
+
+
+.whole{
+    width: 375px;
+    height: 532px;
+    left: 751px;
+    top: 287px;
+    background: #FFFFFF;
+    border-radius: 15px;
+    margin-top: 50px;
+    margin-left: 500px;
+    margin-bottom: 50px;
+}
+.welcome{
+    width: 167px;
+    height: 40px;
+    left: 29px;
+    top: 29px;
+}
+.welcome p{
+    width: 75%;
+}
+.right h4{
+    color: #0330A6;;
+}
+.name{
+    width: 318px;
+    height: 50px;
+    left: 29px;
+    top: 158px;
+    border: 1px solid #847C7C;
+    border-radius: 5px;
+}
+.password{
+    width: 318px;
+    height: 50px;
+    left: 29px;
+    top: 239px;
+    border: 1px solid #847C7C;
+    border-radius: 5px;
+}
+.login {
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 17px;
+    gap: 10px;
+    width: 318px;
+    height: 50px;
+    background: #0330A6;
+    border-radius: 7px;
+    color: #FFFFFF;
+}
+.blue{
+    width: 194px;
+    height: 15px;
+    left: 91px;
+    top: 382px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 15px;
+    color: #847C7C;
+}
+.right{
+    
+    width: 100%;
+    padding: 20px;
+    background-color: rgba(221, 214, 214, 0.952);
+    border: 1px solid rgb(247, 245, 245);
+    margin-right: 10px;
+}
+
+.green{
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    width: 311px;
+    height: 50px;
+    left: 5px;
+    top: 1px ;
+    background-color: #0330A6;
+    border-radius: 7px;
+    color: white;
+    display: flex;
+    align-items: center;
+    margin: 7px;
+}
+.green{
+  
+}
+
+.left {
+    padding: 15px;
+    width: 100%;
+}
+.left h1{
+    color: rgb(72, 139, 228);
+}
+.left p{
+    margin: 10px;
+    width: 100%;
+}
+
+input {
+    height: 48px;
+    width: 100%;
+    border-radius: 8px;
+    border: 1px solid blue;
+}
+
+.right div{
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+}
+
+*{
+    font-family:  'Nunito', sans-serif;
+}
+.logo{
+    display: flex;
+}
+
+.logo img{
+    height: 6vw;
+    width: auto;
+    padding: 2vw;
+
+}
+.nav-bar{
+    display: flex;
+    border:1px solid red;
+    width: 90%;
+}
+.nav-links{
+    margin-right: 1vw;
+    width: 80%;
+}
+.nav-links ul{
+    float: right;
+    display: flex;
+
+
+
+}
+.nav-links ul li{
+    list-style: none;
+    padding: 2vw;
+    float: left;
+
+    
+    
+}
+.nav-links ul li a{
+    list-style: none;
+    text-decoration: none;
+    color: black;
+  
+}
+.nav-links .signup{
+    background-color: rgb(49, 219, 245);
+    border-radius: 30%;
+    border: 25%;
+    padding: 10px;
+}
+
+#login-button{
+    padding:5px 10px;
+    border:1px solid #c4c4c4;
+    background-color:grey;
+    color:white;
+    
+}
+.top-search{
+    display: flex;
+    border:1px solid red;
+    padding: 10%;
+    width: 80%;
+}
+.top-search .access{
+    width: 40%;
+    justify-content: space-between;
+
+}
+.top-search .student-image{
+    width: 40%;
+    margin-left: 10vw;
+}
+
+.top-search img {
+    border-radius: 5vw;
+    
+}
+.top-search .access .search{
+    background-color: rgb(49, 219, 245);
+    border-radius: 30%;
+    border: 25%;
+    padding: 10px;
+}
+.top-search  .search a{
+    text-decoration: none;
+}
+.about{
+    border:1px solid red;
+    display: flex;
+    padding: 10%;
+
+}
+.about img{
+    border-radius: 5vw;
+}
+.about .who{
+    width: 80%;
+}
+.about .about-btn{
+    background-color: rgb(49, 219, 245);
+    border-radius: 30%;
+    border: 25%;
+    padding: 10px;
+
+}
+.about .about-btn a{
+    text-decoration: none;
+}
+.help{
+    display: flex;
+    width: 100%;
+    border: 1px solid rebeccapurple;
+}
+.help-image{
+    width: 50%;
+    padding: 10vw 5vw 0vw 5vw;
+
+}
+.help-image img{
+    border-radius: 5vw;
+}
+
+.work-you h1{
+    width: 80%;
+    text-align: center;
+    border: 1px solid greenyellow;
+   
+}
+.icons-help{
+    width: 50%;
+    padding-top: 1vw;
+
+}
+.scholarship-search{
+    display: flex;
+    
+
+
+}
+.scholarship-search .grid{
+    padding: 1vw;
+    
+}
+.process-personal .smiley{
+    padding: 1vw;
+}
+.win .cash{
+    padding: 1vw;
+}
+.process-personal{
+    display: flex;
+}
+.win{
+    display: flex;
+}
+.world-top{
+    display: flex;
+    padding: 10%;
+    border: 6px solid orange;
+}
+.world-top .world-image img{
+    border-radius: 500vw;
+
+}
+.worlds .explore{
+    background-color: rgb(49, 219, 245);
+    border-radius: 30%;
+    border: 25%;
+    padding: 10px;
+
+}
+
+.worlds .explore a{
+    text-decoration: none;
+}
+.reviewees{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: space-between;
+}
+.reviews .toph{
+    text-align: center;
+}
+.reviews .review1{
+    border: 1px solid lightgray;
+    margin: 4vw;
+    border-radius: 2vw;
+}
+.reviews .review2{
+    border: 1px solid lightgray;
+    margin: 4vw;
+    border-radius: 2vw;
+}
+.reviews .review3{
+    border: 1px solid lightgray;
+    margin: 4vw;
+    border-radius: 2vw;
+}
+.connect{
+    border: 2px solid lightgray;
+    margin: 12vw;
+    border-radius: 2vw;
+    background-color: #F7F5F2;
+}
+.get-connected{
+    text-align: center;
+    padding: 2vw;
+}
+footer .footer-content{
+    display: flex;
+    border: 10px solid yellow;
+    background-color:#F7F5F2 ;
+}
+
+.footer-links ul li{
+    list-style: none;
+}
+.footer-links ul li a{
+    text-decoration: none;
+    color: black;
+}
+footer .social-media-icons{
+    margin: 2vw;
+    padding: 100px;
+}
+footer .social-media-icons .fa{
+    justify-content: space-between;
+    padding: 20px;
+    color: black;
+
+}
+footer .social-media-icons .h3{
+    text-align: center;
+    
+
+}
+footer .social-media-icons a{
+    text-decoration: none;
+    list-style: none;
+    
+
+}
+footer .footer-links{
+    padding: 100px;
+
+}
+footer .news{
+    padding: 100px;
+    text-decoration: none;
+}
+footer .news a{
+    text-decoration: none;
+}
+.checked{
+    color: orange;
+}
+
+
+
+
+

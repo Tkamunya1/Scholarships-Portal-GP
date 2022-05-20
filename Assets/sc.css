@@ -3,52 +3,46 @@
 }
 
 body {
-    background-color: #A7DFFF;
 
 }
 
-.logo img {
+.logo img{
     height: 6vw;
     width: auto;
     padding: 2vw;
 
 }
-
-.nav-bar {
+.nav-bar{
     display: flex;
-}
 
-.nav-links {
+}
+.nav-links{
     margin-right: 1vw;
     width: 80%;
 }
-
-.nav-links ul {
+.nav-links ul{
     float: right;
     display: flex;
 
 
 
 }
-
-.nav-links ul li {
+.nav-links ul li{
     list-style: none;
     padding: 2vw;
     float: left;
 
-
-
+    
+    
 }
-
-.nav-links ul li a {
+.nav-links ul li a{
     list-style: none;
     text-decoration: none;
     color: black;
-
+  
 }
-
-.nav-links .signup {
-    background-color: #EC4067;
+.nav-links .signup{
+    background-color: rgb(49, 219, 245);
     border-radius: 30%;
     border: 25%;
     padding: 10px;
@@ -57,6 +51,7 @@ body {
 h1,
 h2,
 h3 {
+    color: black;
     font-size: larger;
     justify-content: space-between;
     font-weight: bolder;
@@ -71,13 +66,14 @@ h3 {
     margin-left: 20px;
     margin-right: 20px;
     box-sizing: border-box;
-    background-color: #A7DFFF;
     height: 650px; width: fit-content;
 
 
 }
 
-
+p {
+    color: black;
+}
 
 .column ul li {
     font-style: italic;
@@ -86,14 +82,14 @@ h3 {
 .Moringa {
     border: 10px;
     padding-left: 10px;
-    border: 2px solid #EC4067;
+    border: 2px solid #A7DFFF;
 
 
 }
 
 .Agakhan {
     padding-left: 10px;
-    border: 2px solid #EC4067;
+    border: 2px solid #A7DFFF;
 
 
 }
@@ -101,12 +97,12 @@ h3 {
 .USIU {
     margin-left: 40px;
     padding-left: 10px;
-    border: 2px solid #EC4067;
+    border: 2px solid #A7DFFF;
 
 }
 
 .Apply {
-    background-color: #EC4067;
+    background-color: #A7DFFF;
     border-radius: 20%;
     border: 25%;
     padding: 10px;
@@ -116,6 +112,6 @@ h3 {
 
 .MR,
 .AG,
-.US {
+US {
     color: white;
 }
