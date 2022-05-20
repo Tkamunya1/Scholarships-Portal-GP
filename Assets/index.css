@@ -18,7 +18,6 @@ body{
 }
 .nav-bar{
     display: flex;
-    border:1px solid red;
     width: 90%;
 }
 .nav-links{
@@ -62,7 +61,6 @@ body{
 }
 .top-search{
     display: flex;
-    border:1px solid red;
     padding: 10%;
     width: 80%;
 }
@@ -90,7 +88,6 @@ body{
     text-decoration: none;
 }
 .about{
-    border:1px solid red;
     display: flex;
     padding: 10%;
 
@@ -114,7 +111,6 @@ body{
 .help{
     display: flex;
     width: 100%;
-    border: 1px solid rebeccapurple;
 }
 .help-image{
     width: 50%;
@@ -128,7 +124,6 @@ body{
 .work-you h1{
     width: 80%;
     text-align: center;
-    border: 1px solid greenyellow;
    
 }
 .icons-help{
@@ -161,7 +156,6 @@ body{
 .world-top{
     display: flex;
     padding: 10%;
-    border: 6px solid orange;
 }
 .world-top .world-image img{
     border-radius: 500vw;
@@ -214,8 +208,8 @@ body{
 }
 footer .footer-content{
     display: flex;
-    border: 10px solid yellow;
     background-color:#F7F5F2 ;
+    background-image: linear-gradient(white ,#0AA1DD);
 }
 
 .footer-links ul li{

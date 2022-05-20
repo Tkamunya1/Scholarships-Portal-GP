@@ -7,7 +7,6 @@
 }
 
 body{
-    background-color: darkgray;
 }
 body{
     padding: 0;
@@ -29,7 +28,6 @@ body{
 }
 .nav-bar{
     display: flex;
-    border:1px solid red;
     width: 90%;
 }
 .nav-links{
@@ -73,7 +71,6 @@ body{
 }
 .top-search{
     display: flex;
-    border:1px solid red;
     padding: 10%;
     width: 80%;
 }
@@ -101,7 +98,6 @@ body{
     text-decoration: none;
 }
 .about{
-    border:1px solid red;
     display: flex;
     padding: 10%;
 
@@ -410,7 +406,6 @@ body{
 }
 .nav-bar{
     display: flex;
-    border:1px solid red;
     width: 90%;
 }
 .nav-links{
@@ -454,7 +449,6 @@ body{
 }
 .top-search{
     display: flex;
-    border:1px solid red;
     padding: 10%;
     width: 80%;
 }
@@ -482,7 +476,6 @@ body{
     text-decoration: none;
 }
 .about{
-    border:1px solid red;
     display: flex;
     padding: 10%;
 
