@@ -410,7 +410,7 @@ body{
 }
 .nav-bar{
     display: flex;
-    border:1px solid red;
+   
     width: 90%;
 }
 .nav-links{
