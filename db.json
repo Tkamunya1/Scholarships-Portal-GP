@@ -1,0 +1,66 @@
+[
+    {
+    "title": "The Cleaner Coder",
+    "body": "This programming book comes with great tips for both learning how to code and launching a career in tech. Although the content is mostly focused on software development, it’s just as applicable to becoming a great web developer, too.",
+    "author": "Robert Martin",
+    "Thumbnail": "",
+    "id": "1"
+    },
+    {
+    "title": "The Self-Taught Programmer",
+    "body": "If you are new to learning how to code, The Self-Taught Programmer will make your journey easier. If you started learning web development already but feel overwhelmed, this book will show you what to do next.",
+    "author": "Cory Althoff",
+    "Thumbnail": "",
+    "id": "2"
+    },
+    {
+    "title": "Coding All-in-One For Dummies",
+    "body": "It’s actually nine books packed into one massive guide that covers everything from coding fundamentals to career paths to learning in-demand programming languages from scratch",
+    "author": "Nikhil Abraham et al.",
+    "id": 3
+    },
+    {
+    "title": "Learning Web Design: A Beginner’s Guide",
+    "body": "Learning Web Design is an all-in-one beginner’s web development book for anyone who is completely new to tech and wants to build their own websites from scratch. You will start with the fundamentals of how the WWW and websites work. The following chapters build on that foundation, and by the end of the book you will know how to use HTML, CSS, and JavaScript to build a responsive web page.",
+    "author": "Jennifer Niederst Robbins",
+    "Thumbnail": "",
+    "id": 4
+    },
+    {
+    "title": "HTML and CSS: Design and Build Websites",
+    "body": "Excellent starting point for learning HTML and CSS. Written for readers with no experience, easy to follow. Covers both the basics as well as more advanced topics, and responsive design.",
+    "author": "Jon Duckett",
+    "Thumbnail": "",
+    "id": "5"
+    },
+    {
+    "title": "A Smarter Way to Learn HTML & CSS",
+    "body": "This HTML and CSS guide is perfect for absolute beginners who want to learn these languages fast and build their first HTML/CSS web pages quickly.",
+    "author": "Mark Myers",
+    "id": "6"
+    },
+    {
+    "title": "HTML & CSS QuickStart Guide",
+    "body": "If you feel like HTML and CSS are too difficult to learn, this quickstart guide shows you an easier, more simple way to master both languages. You will learn how HTML and CSS work, what you can build with them, and how to design responsive web pages. Also, you’ll set up your working environment, learn how version control works with Git, and get an introduction to Bootstrap",
+    "author": "David DuRocher",
+    "id": "7"
+    },
+    {
+    "title": "Learn JavaScript Quickly",
+    "body": "The book starts with the absolute fundamentals of computer programming to get you in the right mindset. You will then learn the basic JavaScript syntax to get comfortable with the language. Later in the book, you’ll go through helpful exercises (with solutions) and learn how to create a real-life website with HTML, CSS, and JavaScript from scratch.",
+    "author": "Code Quickly",
+    "id": "8"
+    },
+    {
+    "title": "Eloquent JavaScript",
+    "body": "Eloquent JavaScript helps you dive into writing code from the get-go, even if you are completely new to web development and coding. Focussing entirely on JS, you will learn how to write clean and effective code throughout the book.",
+    "author": "Marijn Haverbeke",
+    "id": "9"
+    },
+    {
+    "title": "A Smarter Way to Learn JavaScript",
+    "body": "This beginner’s JavaScript guide is all about understanding how this language truly works, and how you can apply it to your own real-world web projects. You will go through the theory parts very quickly, and spend most of your time practising and learning by doing. If you prefer hands-on exercises to monotone reading, this book is perfect for you.",
+    "author": "Mark Myers",
+    "id": "10"
+    }
+    ]
